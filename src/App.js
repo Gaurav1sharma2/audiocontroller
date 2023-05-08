@@ -29,7 +29,6 @@ function App() {
         }}
         sfxs={sfxArray}
         isShowNextPrevBtn = {false}
-        isAutoPlay={true}
         playBtnImg ={ playBtnImg // image url
         }
         pauseBtnImg={ pauseBtnImg // image url
